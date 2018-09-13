@@ -1,0 +1,11 @@
+node_modules/
+dist/
+deploy/
+.vscode/
+test_out/
+coverage/
+
+*.log
+vcs.xml
+.env
+
